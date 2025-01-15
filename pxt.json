@@ -1,11 +1,11 @@
 {
     "name": "hoc2024-md",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Hour of Code: The Show Must Go On",
     "dependencies": {
         "core": "*",
         "builder": "*",
-        "hoc2024-md": "github:fc-minecraft/hoc2024-md#v0.0.1"
+        "hoc2024-md": "github:fc-minecraft/hoc2024-md"
     },
     "files": [
         "README.md",
